@@ -15,7 +15,7 @@
 
 ---
 
-## About Me
+## 💭 About Me
 
 I am a student interested in the intersection of science, technology, and innovation. I enjoy exploring programming, developing practical projects, and discovering how technology can address real-world challenges.
 
@@ -26,7 +26,7 @@ I am a student interested in the intersection of science, technology, and innova
 - Looking forward to collaborating on NASA Space Apps Challenge projects.
 - Pronouns: She/Her.
 
-## Technical Skills
+## ⚙️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html&theme=dark" />
@@ -39,7 +39,7 @@ I am a student interested in the intersection of science, technology, and innova
 | Science | Biology |
 | Interests | AI, Innovation, Technology |
 
-## Featured Project
+## 📽️ Featured Project
 
 ### Hospital Management System
 
@@ -68,26 +68,26 @@ A Python-based project focused on organizing hospital operations through patient
 
 
 
-## Contribution Activity
+## ☄️Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayesha-Affan-Siddiqui/Ayesha-Affan-Siddiqui/output/snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 </p>
 
-## Beyond Technology
+## 🌄 Beyond Technology
 
-**A Proverb I Value**
+🤔**A Proverb I Value**
 
 <p align="center">
   <b>ہمت مرداں مدد خدا</b><br/>
   <i>God helps those who help themselves.</i>
 </p>
 
-**A Fact About Pakistan**
+💚 **A Fact About Pakistan**
 
 Sialkot is internationally recognized for its sports manufacturing industry. The city has historically produced a significant share of the world's hand-stitched footballs, including footballs used in FIFA World Cups.
 
-## Connect With Me
+## 🛜 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Ayesha-Affan-Siddiqui">
