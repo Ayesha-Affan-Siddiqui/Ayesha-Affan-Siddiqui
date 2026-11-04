@@ -96,6 +96,15 @@ Sialkot is internationally recognized for its sports manufacturing industry. The
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:302B63,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ayesha-Affan-Siddiqui/Ayesha-Affan-Siddiqui/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ayesha-Affan-Siddiqui/Ayesha-Affan-Siddiqui/output/snake.svg" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Ayesha-Affan-Siddiqui/Ayesha-Affan-Siddiqui/output/snake.svg" width="100%" />
+</picture>
 </p>
 
 <p align="center">
