@@ -56,12 +56,17 @@ A Python-based project focused on organizing hospital operations through patient
   </a>
 </p>
 
-## GitHub Statistics
+
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayesha-Affan-Siddiqui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B61FF&text_color=FFFFFF&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Affan-Siddiqui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <a href="https://github.com/Ayesha-Affan-Siddiqui?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My-Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" />
+  </a>
 </p>
+
+
 
 ## Contribution Activity
 
