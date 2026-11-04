@@ -1,84 +1,113 @@
 # Ayesha Affan Siddiqui
 
+<!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302B63,100:00D9FF&height=180&section=header&text=Ayesha%20Affan%20Siddiqui&fontSize=35&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302B63,100:00D9FF&height=200&section=header&text=Ayesha%20Affan%20Siddiqui&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" width="100%" alt="Ayesha Affan Siddiqui Header" />
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Student+%7C+Aspiring+Developer;Exploring+Science+%26+Technology;Learning+Python+%26+HTML;Turning+Ideas+Into+Projects;Curiosity+Drives+Innovation" alt="Animated Introduction" />
+</p>
+
+<!-- STATUS BADGES -->
+<p align="center">
+  <a href="https://github.com/Ayesha-Affan-Siddiqui">
+    <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Innovation-0D1117?style=for-the-badge&logo=target&logoColor=00D9FF&labelColor=161B22" alt="Focus Badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ayesha-Affan-Siddiqui">
+    <img src="https://img.shields.io/badge/Status-Exploring%20New%20Ideas-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=161B22" alt="Status Badge" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Student+%7C+Aspiring+Developer;Exploring+Science+%26+Technology;Learning+Python+%26+HTML;Turning+Ideas+Into+Projects;Curiosity+Drives+Innovation" alt="Animated introduction" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separator Line" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Innovation-161B22?style=for-the-badge&logo=target&logoColor=00D9FF" alt="Focus Badge" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Ideas-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Status Badge" />
-</p>
-
----
-
+<!-- ABOUT ME -->
 ## 💭 About Me
 
-I am a student interested in the intersection of science, technology, and innovation. I enjoy exploring programming, developing practical projects, and discovering how technology can address real-world challenges.
+<table align="center" width="100%">
+  <tr>
+    <td width="100%" style="background-color: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #302B63;">
+      <p>I am a student interested in the intersection of science, technology, and innovation. I enjoy exploring programming, developing practical projects, and discovering how technology can address real-world challenges.</p>
+      <ul>
+        <li>🧬 <b>Currently studying:</b> Biology.</li>
+        <li>💻 <b>Learning:</b> Python and HTML.</li>
+        <li>🤖 <b>Exploring:</b> Artificial Intelligence and web development.</li>
+        <li>💡 <b>Interests:</b> Scientific innovation and problem-solving.</li>
+        <li>🚀 <b>Looking forward to:</b> Collaborating on NASA Space Apps Challenge projects.</li>
+        <li>🙋‍♀️ <b>Pronouns:</b> She/Her.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-* 🧬 **Currently studying:** Biology
-* 💻 **Learning:** Python & HTML
-* 🤖 **Exploring:** Artificial Intelligence & Web Development
-* 💡 **Interests:** Scientific Innovation & Problem-Solving
-* 🚀 **Looking forward to:** Collaborating on NASA Space Apps Challenge projects
-* 🙋‍♀️ **Pronouns:** She/Her
+<br/>
 
----
-
+<!-- TECHNICAL SKILLS -->
 ## ⚙️ Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=dark" alt="Technical Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" alt="Technical Skills Icons" />
   </a>
 </p>
 
 <div align="center">
 
-| Area | Current Focus |
+| 🎨 Area | ⚡ Current Focus |
 | :--- | :--- |
-| **Programming** | Python |
-| **Web Development** | HTML |
-| **Science** | Biology |
-| **Interests** | AI, Innovation, Technology |
+| **Programming** | `Python` |
+| **Web Development** | `HTML` |
+| **Science** | `Biology` |
+| **Interests** | `AI` • `Innovation` • `Technology` |
 
 </div>
 
----
+<br/>
 
+<!-- FEATURED PROJECT -->
 ## 📽️ Featured Project
 
-<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="100%" style="background-color: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #00D9FF;">
+      <h3 align="center">🏥 Hospital Management System</h3>
+      <p align="center"><i>A Python-based project focused on organizing hospital operations through patient management, doctor records, and appointment scheduling.</i></p>
+      <hr style="border: 0; height: 1px; background: #302B63;" />
+      <ul>
+        <li>📋 Patient registration and record management.</li>
+        <li>👨‍⚕️ Doctor information management.</li>
+        <li>🗓️ Appointment scheduling.</li>
+        <li>🖥️ Menu-driven interface.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ayesha-Affan-Siddiqui/Hospital-Management-System">
+          <img src="https://img.shields.io/badge/Explore%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Project Badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🏥 Hospital Management System
+<br/>
 
-A Python-based project focused on organizing hospital operations through patient management, doctor records, and appointment scheduling.
-
-</div>
-
-* 📋 **Patient registration** and record management.
-* 👨‍⚕️ **Doctor information** management.
-* 🗓️ **Appointment scheduling**.
-* 🖥️ **Menu-driven interface**.
-
-<p align="center">
-  <a href="https://github.com/Ayesha-Affan-Siddiqui/Hospital-Management-System">
-    <img src="https://img.shields.io/badge/Explore%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Project" />
-  </a>
-</p>
-
----
-
+<!-- GITHUB ACTIVITY & STATS -->
 ## 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/Ayesha-Affan-Siddiqui?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My-Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="View Repositories" />
+    <img src="https://img.shields.io/badge/View%20My-Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="View Repositories Badge" />
   </a>
+</p>
+
+<!-- DYNAMIC STATS CARDS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Affan-Siddiqui&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-Affan-Siddiqui&theme=tokyonight&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=00D9FF" alt="GitHub Streak" width="48%" />
 </p>
 
 ### ☄️ Contribution Activity
@@ -91,39 +120,53 @@ A Python-based project focused on organizing hospital operations through patient
   </picture>
 </p>
 
----
+<br/>
 
+<!-- BEYOND TECHNOLOGY -->
 ## 🌄 Beyond Technology
 
-### 💭 A Proverb I Value
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <h3 align="center">🤔 A Proverb I Value</h3>
+      <p align="center" style="font-size: 1.2em;">
+        <b>ہمت مرداں مدد خدا</b><br/>
+        <i>"God helps those who help themselves."</i>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <h3 align="center">💚 A Fact About Pakistan</h3>
+      <p align="justify">
+        <b>Sialkot</b> is internationally recognized for its sports manufacturing industry. The city has historically produced a significant share of the world's hand-stitched footballs, including footballs used in FIFA World Cups. ⚽
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>ہمت مرداں مدد خدا</b><br/>
-  <i>God helps those who help themselves.</i>
-</p>
+<br/>
 
-### 🇵🇰 A Fact About Pakistan
-
-> **Did you know?** Sialkot is internationally recognized for its sports manufacturing industry. The city has historically produced a significant share of the world's hand-stitched footballs, including footballs used in FIFA World Cups.
-
----
-
+<!-- CONNECT WITH ME -->
 ## 🛜 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Ayesha-Affan-Siddiqui">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@UpIn-united-we-save">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayesha-Affan-Siddiqui&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ayesha-Affan-Siddiqui&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
+<!-- FOOTER ANIMATION -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:302B63,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
 </p>
 
 <p align="center">
-  <i>Curiosity drives learning. Innovation turns ideas into impact.</i>
+  ✨ <i>Curiosity drives learning. Innovation turns ideas into impact.</i> ✨
 </p>
