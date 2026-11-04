@@ -94,7 +94,7 @@
 
 <br/>
 
-<!-- GITHUB ACTIVITY & STATS -->
+<!-- GITHUB ACTIVITY -->
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -103,21 +103,11 @@
   </a>
 </p>
 
-<!-- DYNAMIC STATS CARDS -->
+<!-- STABLE STATS BADGES -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayesha-Affan-Siddiqui&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20HTML-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF&labelColor=161B22" alt="Languages Badge" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-Affan-Siddiqui&theme=tokyonight&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=00D9FF" alt="GitHub Streak" width="48%" />
-</p>
-
-### ☄️ Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayesha-Affan-Siddiqui/Ayesha-Affan-Siddiqui/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayesha-Affan-Siddiqui/Ayesha-Affan-Siddiqui/output/snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Ayesha-Affan-Siddiqui/Ayesha-Affan-Siddiqui/output/snake.svg" width="100%" />
-  </picture>
+  <img src="https://img.shields.io/badge/Contributions-Active-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF&labelColor=161B22" alt="Contributions Badge" />
 </p>
 
 ### ☄️ Contribution Activity
