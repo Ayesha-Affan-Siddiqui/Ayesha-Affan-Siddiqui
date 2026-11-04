@@ -158,6 +158,7 @@ An innovative challenge exploring how NASA Earth imagery and visual data can be 
   <img src="https://img.shields.io/badge/Challenge-Earth%20Information%20Jukebox-7B61FF?style=for-the-badge"/>
 </p>
 
+
 <!-- ═══════════════ GITHUB ACTIVITY ═══════════════ -->
 
 ## <img src="https://media.giphy.com/media/M99bezbSWlh8P1Tpsg/giphy.gif" width="30"/> GitHub Activity
@@ -172,32 +173,48 @@ An innovative challenge exploring how NASA Earth imagery and visual data can be 
   </a>
 </p>
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATISTICS -->
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayesha-Affan-Siddiqui&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=7B61FF&text_color=FFFFFF&hide_border=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Affan-Siddiqui&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayesha-Affan-Siddiqui&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=7B61FF&text_color=FFFFFF&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Affan-Siddiqui&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide_border=true"/>
 </p>
 
-<!-- GITHUB STREAK -->
+<!-- CONTRIBUTION STREAK -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-Affan-Siddiqui&theme=tokyonight&background=0D1117&ring=00D9FF&fire=7B61FF&currStreakLabel=00D9FF&hide_border=true" width="90%"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-Affan-Siddiqui&theme=tokyonight&background=0D1117&ring=00D9FF&fire=7B61FF&currStreakLabel=00D9FF&hide_border=true"/>
 </p>
 
-<!-- ACTIVITY GRAPH -->
+<!-- GITHUB ACTIVITY GRAPH -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-Affan-Siddiqui&bg_color=0D1117&color=00D9FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-Affan-Siddiqui&bg_color=0D1117&color=00D9FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"/>
 </p>
 
-<!-- TROPHIES -->
+<br/>
+
+
+
+<!-- ═══════════════ GITHUB TROPHIES ═══════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayesha-Affan-Siddiqui&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=2500&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Every+Achievement+Counts!;Keep+Learning.+Keep+Building.;The+Journey+Continues..."/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ayesha-Affan-Siddiqui&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15" width="100%" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KEEP-CREATING-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KEEP-EXPLORING-00D9FF?style=for-the-badge&logo=rocket&logoColor=black"/>
+</p>
+
+<br/>
+
 
 <!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
 
