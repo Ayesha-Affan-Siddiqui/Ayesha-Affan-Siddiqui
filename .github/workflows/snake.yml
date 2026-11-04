@@ -12,14 +12,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - name: Generate snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Ayesha-Affan-Siddiqui
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Publish snake
+      - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
